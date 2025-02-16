@@ -23,4 +23,4 @@ Create a model.pkl file to store the trained model.
 
 Step 6: (1) Create a new app.py file for the API
         (2) Run the Flask server
-        (3) Test the API with a sample request
+        (3) Test the API with a sample request - check python.py file
